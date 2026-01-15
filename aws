@@ -1,2 +1,8 @@
+<<<<<<< Updated upstream
 aws is amazon web service 
 x=10
+=======
+aws is amazon web service
+x=15
+y=10 
+>>>>>>> Stashed changes
